@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://ikaka22.github.io/"/>
   <updated>2018-09-30T03:52:15.470Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://ikaka22.github.io/</id>
   
   <author>
     <name>ikaka</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/30/hello-world/"/>
-    <id>http://yoursite.com/2018/09/30/hello-world/</id>
+    <link href="http://ikaka22.github.io/2018/09/30/hello-world/"/>
+    <id>http://ikaka22.github.io/2018/09/30/hello-world/</id>
     <published>2018-09-30T03:52:15.470Z</published>
     <updated>2018-09-30T03:52:15.470Z</updated>
     
